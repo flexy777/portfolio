@@ -53,8 +53,8 @@ export const projects = [
       "This is a website I built for this health organization as it contains information about them and what they offer.",
     image: "/images/telemed.jpg",
     tags: ["HTML", "JavaScript", "Bootstrap"],
-    source: "24telemed.org",
-    visit: "24telemed.org",
+    source: "https://24telemed.org/",
+    visit: "https://24telemed.org/",
     id: 4,
   },
 ];
