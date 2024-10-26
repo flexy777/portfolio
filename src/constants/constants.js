@@ -5,8 +5,6 @@ export const projects = [
       "Using React & Django I was part of the team that built this Full Stack Application - from start to finish. The App is called Evoke E-health and it is an app that provides a platform for patients and doctors to interact and communicate in various forms.",
     image: "/images/evoke.jpg",
     tags: ["React", "Django"],
-    source: "https://evokeehealth.com",
-    visit: "https://evokeehealth.com",
     id: 0,
   },
 
@@ -16,8 +14,6 @@ export const projects = [
       "Using React & Django I was part of the team that built this Full Stack Application - from start to finish. The App is called A.S.E.S.S Care and it is an app that provides a platform for patients and doctors in Anambra State to interact and communicate in various forms.",
     image: "/images/asess.jpg",
     tags: ["React", "Django"],
-    source: "https://www.asesscare.com/",
-    visit: "https://www.asesscare.com/",
     id: 1,
   },
   {
@@ -57,8 +53,8 @@ export const projects = [
       "This is a website I built for this health organization as it contains information about them and what they offer.",
     image: "/images/telemed.jpg",
     tags: ["HTML", "JavaScript", "Bootstrap"],
-    source: "24telemed.netlify.app",
-    visit: "24telemed.netlify.app",
+    source: "24telemed.org",
+    visit: "24telemed.org",
     id: 4,
   },
 ];
